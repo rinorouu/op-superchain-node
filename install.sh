@@ -21,8 +21,8 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 # Clone repository OP Stack
 echo "Menduplikasi repository OP Stack..."
-git clone https://github.com/ethereum-optimism/optimism.git
-cd optimism
+git clone https://github.com/smartcontracts/simple-optimism-node.git
+cd simple-optimism-node
 
 # Menyiapkan container Docker untuk Superchain Node
 echo "Menjalankan container Docker untuk Superchain Node..."
