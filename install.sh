@@ -1,5 +1,16 @@
 #!/bin/bash
 
+echo "====================================="
+echo "     ____   ____  _    _  _    _    "
+echo "    |  _ \\ |  _ \\| |  | || |  | |   "
+echo "    | |_) || |_) | |  | || |  | |   "
+echo "    |  _ < |  _ <| |__| || |__| |   "
+echo "    |_| \\_\\|_| \\_\\\\____/  \\____/    "
+echo "                                     "
+echo "         OP Superchain Node          "
+echo "====================================="
+
+
 echo "=== Install dulu ya Dependensi untuk OP Superchain Node ==="
 
 # Update system dan instal curl dan git
